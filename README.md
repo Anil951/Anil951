@@ -10,18 +10,6 @@
 - 📝 I’m looking to collaborate on Web related projects soon...
 - ⚡ Fun fact **The first computer “bug" was an actual real-life bug**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/anilkumar-borige-b6576a234/">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
-
-  </a>
-  <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"/>
-  </a>
-</div>
-
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -34,16 +22,34 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Tools:</h3>
 <p aligm="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-*** 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anilkumar-borige-b6576a234/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Anil951">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+</div>
+
+****
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
-
 
 <p align="center">
         <img color="blue" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
