@@ -1,18 +1,14 @@
 [![MasterHead](https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)](https://rishavchanda.io)
+![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
 <h1 align="center">Hi there ✋!, I'm Anil</h1>
 
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil951&label=Profile%20views&color=0e75b6&style=flat" alt="anil951" /> </p>
 
+ **NAMASTE 🙏**
 - 🌱 I’m currently learning **Front end**
-
 - 💬 Ask me about **Python**
-
 - 📝 I’m looking to collaborate on Web related projects soon...
-
-- ⚡ Fun fact 
-  **The first computer “bug" was an actual real-life bug**
+- ⚡ Fun fact **The first computer “bug" was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +26,7 @@
 <h3 align="left">Languages and Frameworks:</h3>
 <p aligm="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -43,5 +39,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 
+*** 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&theme=cobalt&hide_border=true" />
