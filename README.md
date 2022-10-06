@@ -44,4 +44,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&theme=cobalt&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&theme=cobalt&hide_border=true" />
