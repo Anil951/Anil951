@@ -45,7 +45,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
 
 
-***
 <p align="center">
         <img color="blue" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
