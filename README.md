@@ -1,6 +1,6 @@
 [![MasterHead](https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)](https://rishavchanda.io)
 ![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
-<h1 align="center">Hi there ✋!, I'm Anil</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> !, I'm Anil</h1>
 
 
 
@@ -14,10 +14,11 @@
 <p align="left">
 <div id="badges">
   <a href="https://www.linkedin.com/in/anilkumar-borige-b6576a234/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+
   </a>
   <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"/>
   </a>
 </div>
 
@@ -42,3 +43,9 @@
 *** 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
+
+
+***
+<p align="center">
+        <img color="blue" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
