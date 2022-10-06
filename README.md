@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **anilkumarborige@gmail.com**
+- 📝 I’m looking to collaborate on Web related projects soon...
 
 - ⚡ Fun fact **The first computer “bug" was an actual real-life bug**
 
