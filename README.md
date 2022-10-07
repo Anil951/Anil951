@@ -39,7 +39,7 @@
   <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC5NPBrkNuF83MxaHtliC4zA">
+  <a href="https://www.instagram.com/thisis__anil/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/Anil951">
