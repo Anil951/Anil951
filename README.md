@@ -5,7 +5,7 @@
 
 
  **NAMASTE 🙏**
-- 🌱 I’m currently learning **Front end**
+- 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Python**
 - 📝 I’m looking to collaborate on Web related projects soon...
 - ⚡ Fun fact **The first computer “bug" was an actual real-life bug**
