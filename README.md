@@ -29,6 +29,7 @@
 <p aligm="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </p>
 
 
@@ -51,6 +52,7 @@
 
 ****
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Anil951}&theme=blue-green">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
 
 <p align="center">
