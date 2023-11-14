@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
   
 </p>
@@ -51,8 +52,10 @@
 </div>
 
 ****
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil951&layout=compact&bg_color=222831&text_color=eeeeee&title_color=f8d49d&langs_count=8">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anil951&show_icons=true&title_color=f8d49d&icon_color=db6400&text_color=eeeeee&bg_color=222831"/></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+
 
 <p align="center">
         <img color="blue" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
