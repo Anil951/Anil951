@@ -53,8 +53,8 @@
 
 ****
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username={Anil951}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Anil951}&theme=blue-green" />
 
 
 <p align="center">
