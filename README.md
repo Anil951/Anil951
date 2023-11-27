@@ -5,7 +5,6 @@
 # 💫 About Me:
 - 📝 I'm currently working on **NLP**<br>- 🤝 I'm looking for Collaborative development<br>- 🌱 I'm currently learning Machine Learning<br>- 😄 Fun Fact **The first computer “bug" was an actual real-life bug**
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisis_anil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkumar-borige-b6576a234) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC5NPBrkNuF83MxaHtliC4zA) 
 
@@ -23,6 +22,5 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Anil951&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
