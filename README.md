@@ -53,6 +53,7 @@
 
 ****
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anil951&theme=highcontrast&border_radius=4.8)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anil951&theme=highcontrast&border_radius=4.8" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username={Anil951}&theme=blue-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Anil951}&theme=blue-green" />
 
