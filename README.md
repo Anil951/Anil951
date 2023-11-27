@@ -1,6 +1,6 @@
 [![MasterHead](https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)](https://rishavchanda.io)
 ![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
-<h1 align="center">NAMASTE 🙏<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> !, I'm Anil</h1>
+<h1 align="center">NAMASTE 🙏<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Anil</h1>
 
 ### 💫 About Me:
 - 📝 I'm currently working on **NLP**
@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
 
 
 
