@@ -1,4 +1,3 @@
-[![MasterHead](https://www.inspiredbusinessmedia.com/wp-content/uploads/2020/09/Twilio.jpg)](https://rishavchanda.io)
 ![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
 <h1 align="center">NAMASTE 🙏<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Anil</h1>
 
