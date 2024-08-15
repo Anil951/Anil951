@@ -1,5 +1,16 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
-<h1 align="center">NAMASTE 🙏<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Anil</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anil+Kumar+Borige....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/anilkumarborige/" title="LinkedIn Profile"><img width="22" src="github_images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://instagram.com/thisis_anil/" title="Instagram Profile"><img width="22" src="github_images/instagram.svg"> Instagram</a></code>
+ <code><a href="https://youtube.com/@UC5NPBrkNuF83MxaHtliC4zA/" title="Youtube Profile" ><img width="28" src="github_images/youtube.svg"> Youtube</a></code>
+</h5>
 
 ### 💫 About Me:
 - 📝 I'm currently working on **NLP**
