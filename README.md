@@ -1,8 +1,12 @@
-![Visitor Count](https://profile-counter.glitch.me/{Anil951}/count.svg)
+
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=Anil951&repo=github-visitors-badge&countColor=%black)
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anil+Kumar+Borige....;Nice+to+meet+you!&center=true&size=30">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anil+Borige....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -116,6 +120,7 @@
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' alt="Random Meme"/>
 </p>
+
 
 
 
