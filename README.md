@@ -22,6 +22,44 @@
  
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow]
 
+
+<h2 align="center">List of my projects</h2>
+
+> &nbsp;
+> **Diagno Guide** 
+>
+> DiagnoGuide leverages Machine Learning to diagnose diseases based on user symptoms and personal details. It provides personalized medication recommendations, locates nearby healthcare facilities, and allows users to download prescriptions in PDF format. DiagnoGuide aims to revolutionize healthcare by offering accurate and timely solutions, empowering users to make informed health decisions.
+>
+> `ML`, `python`, `flask`, `js`, `css`
+>
+> <a href="https://diagnoguide.onrender.com/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+>
+> &nbsp;
+
+> &nbsp;
+> **YT Video Recommendation for Domain Specific Content**   `in development`
+> 
+> Providing domain-specific YouTube video suggestions for first-time viewers, incorporating sentiment analysis by Ensemble Modeling, spam filtering, multilingual and transliterated text support on comments, and video ranking based on normalized scores.
+>
+> `NLP`, `LSTM`, `sentiment analysis`, `pandas`
+> 
+> <a href="https://github.com/Anil951/YouTube-Video-Recommendation-for-Domain-Specific-Content"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> 
+> &nbsp;
+
+> &nbsp;
+> **Fair Split** 
+> 
+> Web application designed to track and manage shared expenses among a group of users. This application allows users to add individual expenses, specify who participated in each expense, and see how much each person owes. The app calculates the total expenses for each user and provides detailed breakdowns of each expense.
+>
+> `react js`, `javascript`, `html`, `css`
+> 
+> <a href="https://github.com/Anil951/Fair-Split"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> 
+> &nbsp;
+
+
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anil951&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anil951&theme=highcontrast&hide_border=false)<br/>
@@ -32,6 +70,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
-
 
 
