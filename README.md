@@ -12,7 +12,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/anilkumarborige/" title="LinkedIn Profile"><img width="22" src="github_images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://instagram.com/thisis_anil/" title="Instagram Profile"><img width="22" src="github_images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/thisis__anil/" title="Instagram Profile"><img width="22" src="github_images/instagram.svg"> Instagram</a></code>
   <code><a href="https://github.com/Anil951/" title="Github Profile" ><img width="27" src="github_images/github.svg"> GitHub</a></code>
 </h5>
 
