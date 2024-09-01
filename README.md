@@ -17,13 +17,13 @@
 </h5>
 
 <p align="center" justify-content>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it.
   <br>
-  📚 I'm currently working on NLP
+  📚 I'm currently working on improving my skills.
   <br>
-  🤝 I'm looking for Collaborative development
+  🤝 I'm looking for Collaborative development.
   <br>
-  📊 Ask me about data science and analytics
+  📊 Ask me about data science and DSA.
   <br>
   😄 Fun Fact : The first computer “bug" was an actual real-life bug
 </p>
