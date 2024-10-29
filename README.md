@@ -63,13 +63,13 @@
 > &nbsp;
 
 > &nbsp;
-> 🔍 **YT Video Recommendation for Domain Specific Content**   `in development`
+> 🔍 **Sentiment-Based YouTube Video Recommendation**   `in development`
 > 
 > Providing domain-specific YouTube video suggestions for first-time viewers, incorporating sentiment analysis by Ensemble Modeling, spam filtering, multilingual and transliterated text support on comments, and video ranking based on normalized scores.
 >
 > `NLP`, `LSTM`, `sentiment analysis`, `pandas`
 > 
-> <a href="https://github.com/Anil951/YouTube-Video-Recommendation-for-Domain-Specific-Content"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/Anil951/YT-Recommendation"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
