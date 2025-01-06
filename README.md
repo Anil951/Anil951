@@ -84,6 +84,17 @@
 > 
 > &nbsp;
 
+> &nbsp;
+> 🕊️ **Early Detection of Mental Health**   `in development`
+> 
+> This AI-driven solution detects early signs of mental health issues in adolescents through social media analysis, academic data, health records, and an interactive chatbot. It offers real-time insights, personalized tips, and access to mental health resources for proactive care.
+>
+> `NLP`, `LSTM`, `AI`, `pandas`, `python`
+> 
+> <a href="https://github.com/Anil951/Early-detection-of-mental-health"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> 
+> &nbsp;
+
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <p align="center">
