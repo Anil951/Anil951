@@ -14,7 +14,7 @@
   <code><a href="https://www.linkedin.com/in/anilkumarborige/" title="LinkedIn Profile"><img width="22" src="github_images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/thisis__anil/" title="Instagram Profile"><img width="22" src="github_images/instagram.svg"> Instagram</a></code>
   <code><a href="https://github.com/Anil951/" title="Github Profile" ><img width="27" src="github_images/github.svg"> GitHub</a></code>
-  <code><a href="https://x.com/anilkumarborige" title="Github Profile" ><img width="27" src="github_images/x_logo.png"> X</a></code>
+  <code><a href="https://x.com/anilkumarborige" title="X Profile" ><img width="27" src="github_images/x_logo.svg"> X</a></code>
 </h5>
 
 <p align="center" justify-content>
