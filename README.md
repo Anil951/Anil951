@@ -125,12 +125,13 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
 
-
+<!--
 <h2 align="center">😂 Random Dev Meme</h2>
 <br>
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' alt="Random Meme"/>
 </p>
+-->
 
 
 
