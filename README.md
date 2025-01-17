@@ -64,7 +64,7 @@
 > &nbsp;
 
 > &nbsp;
-> 🔍 **Sentiment-Based YouTube Video Recommendation**   `in development`
+> 🔍 **Sentiment-Based YouTube Video Recommendation**  
 > 
 > Providing domain-specific YouTube video suggestions for first-time viewers, incorporating sentiment analysis by Ensemble Modeling, spam filtering, multilingual and transliterated text support on comments, and video ranking based on normalized scores.
 >
@@ -96,6 +96,7 @@
 > 
 > &nbsp;
 
+<!--
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <p align="center">
@@ -111,6 +112,7 @@
     </a>
   </div>
 </p>
+-->
 
 <!--
 ### 📊 GitHub Stats:
