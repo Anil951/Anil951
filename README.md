@@ -18,7 +18,7 @@
 </h5>
 
 <p align="center" justify-content>
-  💻 I love writing code and learn anythings about it.
+  💻 I love writing code and learn anything about it.
   <br>
   📚 I'm currently working on improving my skills.
   <br>
