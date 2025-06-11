@@ -36,6 +36,11 @@
 <h2 align="center">💻 Tech Stack</h2>
 <br>
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,css,flask,git,github,html,ai,java,js,mongodb,mysql,py,react,supabase,sklearn,tensorflow,vscode,windows" />
+  </a>
+</p>
+<!-- <p align="center">
   <code><img title="C" height="25" src="github_images/c.svg"></code>
   <code><img title="Python" height="25" src="github_images/python-original.svg"></code>
   <code><img title="Java" height="25" src="github_images/java-original.svg"></code>
@@ -45,7 +50,7 @@
   <code><img title="React" height="25" src="github_images/react-original.svg"></code>
   <code><img title="MySQL" height="25" src="github_images/mysql.svg"></code>
   <code><img title="Flask" height="25" src="github_images/flask.png"></code>
-</p>
+</p> -->
 <hr>
 
 
@@ -74,6 +79,19 @@
 > 
 > &nbsp;
 
+
+> &nbsp;
+> ⚙️ **License Plate Recognition**   `in development`
+> 
+> A pipeline framework integrating two models: YOLOv8 for detecting license plate bounding boxes from images, and a custom multi-head CNN architecture for text recognition to detect 5–8 character sequences per plate, enabling real-time license plate recognition.
+>
+> `CNN`, `YOLO`, `Deep Learning`, `python`, `image processing`
+> 
+> <a href="https://github.com/Anil951/License-Plate-Recognition"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> 
+> &nbsp;
+
+
 > &nbsp;
 > ⚖️ **Fair Split** 
 > 
@@ -85,18 +103,7 @@
 > 
 > &nbsp;
 
-<!--
-> &nbsp;
-> 🕊️ **Early Detection of Mental Health**   `in development`
-> 
-> This AI-driven solution detects early signs of mental health issues in adolescents through social media analysis, academic data, health records, and an interactive chatbot. It offers real-time insights, personalized tips, and access to mental health resources for proactive care.
->
-> `NLP`, `LSTM`, `AI`, `pandas`, `python`
-> 
-> <a href="https://github.com/Anil951/Early-detection-of-mental-health"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
-> 
-> &nbsp;
--->
+
 
 and many more 🗂️**projects** <a href="https://github.com/Anil951?tab=repositories">here</a>..
 
