@@ -32,7 +32,7 @@
 
 
 
-<hr>
+
 <h2 align="center">💻 Tech Stack</h2>
 <br>
 <p align="center">
@@ -55,55 +55,48 @@
   <code><img title="MySQL" height="25" src="github_images/mysql.svg"></code>
   <code><img title="Flask" height="25" src="github_images/flask.png"></code>
 </p> -->
-<hr>
+
 
 
 <h2 align="center">📁 Notable Work</h2>
 
 
 > &nbsp;
-> 🩺 **Diagno Guide** 
+> 🩺 **Diagno Guide**  &nbsp;  <a href="https://github.com/Anil951/diagno-guide"><kbd> <br> Code <br> </kbd></a>  &nbsp; <a href="https://diagnoguide.onrender.com/"><kbd> <br> Live <br> </kbd></a>
 >
 > DiagnoGuide leverages Machine Learning to diagnose diseases based on user symptoms and personal details. It provides personalized medication recommendations, locates nearby healthcare facilities, and allows users to download prescriptions in PDF format. DiagnoGuide aims to revolutionize healthcare by offering accurate and timely solutions, empowering users to make informed health decisions.
 >
-> `ML`, `python`, `flask`, `js`, `css`
+> `Machine Learning`, `python`, `flask`, `js`, `css`, `Data Science`
 >
-> <a href="https://diagnoguide.onrender.com/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 >
 > &nbsp;
 
 > &nbsp;
-> 🔍 **Sentiment-Based YouTube Video Recommendation**  
+> 🔍 **Sentiment-Based YouTube Video Recommendation**   &nbsp;  <a href="https://github.com/Anil951/YT-Recommendation"><kbd> <br> Code <br> </kbd></a>  
 > 
 > Providing domain-specific YouTube video suggestions for first-time viewers, incorporating sentiment analysis by Ensemble Modeling, spam filtering, multilingual and transliterated text support on comments, and video ranking based on normalized scores.
 >
 > `NLP`, `LSTM`, `sentiment analysis`, `pandas`
 > 
-> <a href="https://github.com/Anil951/YT-Recommendation"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
-> 
 > &nbsp;
 
 
 > &nbsp;
-> ⚙️ **License Plate Recognition**   `in development`
+> ⚙️ **License Plate Recognition**   &nbsp;  <a href="https://github.com/Anil951/License-Plate-Recognition"><kbd> <br> Code <br> </kbd></a>  
 > 
 > A pipeline framework integrating two models: YOLOv8 for detecting license plate bounding boxes from images, and a custom multi-head CNN architecture for text recognition to detect 5–8 character sequences per plate, enabling real-time license plate recognition.
 >
 > `CNN`, `YOLO`, `Deep Learning`, `python`, `image processing`
 > 
-> <a href="https://github.com/Anil951/License-Plate-Recognition"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
-> 
 > &nbsp;
 
 
 > &nbsp;
-> ⚖️ **Fair Split** 
+> ⚖️ **Fair Split**  &nbsp;  <a href="https://github.com/Anil951/Fair-Split"><kbd> <br> Code <br> </kbd></a>  &nbsp; <a href="https://fair-split.netlify.app/"><kbd> <br> Live <br> </kbd></a>
 > 
 > Web application designed to track and manage shared expenses among a group of users. This application allows users to add individual expenses, specify who participated in each expense, and see how much each person owes. The app calculates the total expenses for each user and provides detailed breakdowns of each expense.
 >
-> `react js`, `javascript`, `html`, `css`
-> 
-> <a href="https://github.com/Anil951/Fair-Split"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> `react js`, `javascript`, `html`, `css`, `web development`
 > 
 > &nbsp;
 
