@@ -37,7 +37,11 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,flask,git,github,html,ai,java,js,mongodb,mysql,py,react,supabase,sklearn,tensorflow,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,react,mongodb,mysql,supabase,flask,git,github" />
+<!--     <imp src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <imp src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <imp src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+    <imp src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
   </a>
 </p>
 <!-- <p align="center">
