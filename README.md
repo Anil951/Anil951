@@ -20,13 +20,13 @@
 <p align="center" justify-content>
   💻 I love writing code and learn anything about it.
   <br>
-  📚 I'm currently working on AI-Agents.
+  📚 I'm currently working on AI.
   <br>
-  🤝 I'm looking for Collaborative development/freelance work.
-  <br>
+  🤝 I'm looking for Collaborative development/Freelance work.
+<!--   <br>
   📊 Ask me about data science and DSA.
   <br>
-  😄 Fun Fact : The first computer “bug" was an actual real-life bug
+  😄 Fun Fact : The first computer “bug" was an actual real-life bug -->
 </p>
 
 
