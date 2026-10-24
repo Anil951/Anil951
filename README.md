@@ -54,14 +54,19 @@
 
 <!-- <h2 align="center">📁 Notable Work</h2> -->
 
-### <i>DecisionAct</i>
+### <i>DecisionAct</i> 
 
 **Every Action Is a Decision**
+
 A Python agent framework for building task-focused agents with predefined intents, tools, and outcomes.
 
 DecisionAct uses <b>decision models</b> (Jev, Clef, etc.) to interpret user requests and select actions, then calls your tools to execute them. It brings structure to agent workflows through predefined intents, tools, and outcomes with reply templates.
 
 **[Repository](https://github.com/Anil951/decisionact)** &nbsp; | &nbsp; **[Documentation](https://anil951.github.io/decisionact/)** &nbsp; | &nbsp; **[PyPI](https://pypi.org/project/decisionact/)**
+
+Not every agent needs an LLM to handle its tasks. DecisionAct helps you build task-focused agents using decision models to interpret requests and choose actions, then calls your tools to execute them.
+
+Refer to the **[example](https://anil951.github.io/decisionact/order-agent)** agent built with this framework.
 
 Install the latest version: `pip install decisionact`
 
