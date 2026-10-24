@@ -63,15 +63,9 @@ DecisionAct uses <b>decision models</b> (Jev, Clef, etc.) to interpret user requ
 
 **[Repository](https://github.com/Anil951/decisionact)** &nbsp; | &nbsp; **[Documentation](https://anil951.github.io/decisionact/)** &nbsp; | &nbsp; **[PyPI](https://pypi.org/project/decisionact/)**
 
-#### Installation
+Install the latest version: `pip install decisionact`
 
-Install the latest version:
-
-```bash
-pip install decisionact
-```
-
-Available on **[PyPI](https://pypi.org/project/decisionact/)**: **v0.1.1 (latest)** and **v0.1.0**. See the **[changelog](https://anil951.github.io/decisionact/changelog)** for release notes and upgrade guidance.
+Available on **v0.1.1 (latest)** and **v0.1.0** versions. See the **[changelog](https://anil951.github.io/decisionact/changelog)** for release notes and upgrade guidance.
 
 #### 🤝 Open to Contributions
 
